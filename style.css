@@ -1,0 +1,40 @@
+.heading
+{
+ font-size: 25px;
+ box-shadow: 5px 5px 5px grey;
+ width: 100%;
+ margin: 0px;
+}
+
+.note
+{
+ font-size: 15px;
+ color: black;
+}
+
+#footer
+{
+ background-color: bisque;
+ text-align: center;
+ font-size: 15px;
+ bottom: 0;
+ position: fixed;
+ width: 100%;
+ line-height: 3;
+}
+
+canvas
+{
+ border: 5px solid black;
+ background-color: lavender;
+}
+
+body
+{
+ background-image:url("bg.png");
+}
+
+.head
+{
+ color: azure;
+}
